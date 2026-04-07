@@ -5,4 +5,8 @@
     <dimen name="logo_icon_size">80dp</dimen>
     <dimen name="stroke_thickness">2dp</dimen>
     <dimen name="card_corner_radius">12dp</dimen>
+<<<<<<< HEAD
+=======
+    <dimen name="logo_image_size">70dp</dimen>
+>>>>>>> 468ead6 (Add Grid View implementation)
 </resources>

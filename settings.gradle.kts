@@ -19,5 +19,9 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "Location"
+=======
+rootProject.name = "Location2"
+>>>>>>> 468ead6 (Add Grid View implementation)
 include(":app")

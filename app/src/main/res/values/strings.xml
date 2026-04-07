@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Location</string>
+=======
+    <string name="app_name">Location2</string>
+>>>>>>> 468ead6 (Add Grid View implementation)
 </resources>

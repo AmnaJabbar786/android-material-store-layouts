@@ -3,13 +3,21 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.location"
+=======
+    namespace = "com.example.location2"
+>>>>>>> 468ead6 (Add Grid View implementation)
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId = "com.example.location"
+=======
+        applicationId = "com.example.location2"
+>>>>>>> 468ead6 (Add Grid View implementation)
         minSdk = 24
         targetSdk = 36
         versionCode = 1

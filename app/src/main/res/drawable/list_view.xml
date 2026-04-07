@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <vector xmlns:android="http://schemas.android.com/apk/res/android" android:alpha="0.93" android:height="24dp" android:viewportHeight="64" android:viewportWidth="64" android:width="24dp">
+=======
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="24dp" android:viewportHeight="64" android:viewportWidth="64" android:width="24dp">
+>>>>>>> 468ead6 (Add Grid View implementation)
       
     <path android:fillColor="#d1e7ff" android:pathData="M13,2L51,2A6,6 0,0 1,57 8L57,56A6,6 0,0 1,51 62L13,62A6,6 0,0 1,7 56L7,8A6,6 0,0 1,13 2z"/>
       

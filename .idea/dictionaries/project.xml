@@ -1,6 +1,7 @@
 <component name="ProjectDictionaryState">
   <dictionary name="project">
     <words>
+<<<<<<< HEAD
       <w>altakasosui</w>
       <w>ferozi</w>
       <w>hitten</w>
@@ -10,6 +11,13 @@
       <w>staarbuck</w>
       <w>timhortons</w>
       <w>tobys</w>
+=======
+      <w>alkatasosui</w>
+      <w>ferozi</w>
+      <w>hajeen</w>
+      <w>hitten</w>
+      <w>noti</w>
+>>>>>>> 468ead6 (Add Grid View implementation)
     </words>
   </dictionary>
 </component>

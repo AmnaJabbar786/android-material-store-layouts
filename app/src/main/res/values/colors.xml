@@ -13,4 +13,8 @@
     <color name="blackish">#1b1b1b</color>
     <color name="gray">#545b59</color>
     <color name="gray_light">#9c9c9c</color>
+<<<<<<< HEAD
 </resources>
+=======
+</resources>
+>>>>>>> 468ead6 (Add Grid View implementation)

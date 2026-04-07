@@ -6,4 +6,8 @@
     <size
         android:width="5dp"
         android:height="5dp" />
+<<<<<<< HEAD
 </shape>
+=======
+</shape>
+>>>>>>> 468ead6 (Add Grid View implementation)
